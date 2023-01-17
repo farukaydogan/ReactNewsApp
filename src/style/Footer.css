@@ -1,0 +1,42 @@
+
+footer a{
+    padding: 1.5em; 
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.904);
+    transition: 100ms;
+    font-size: 1.5rem;
+}
+footer a:hover{
+    color: var(--primary);
+}
+
+footer{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100px;
+	padding: 0 2rem;
+	background-color: rgb(227, 24, 24);
+}
+
+body{
+    min-height: 100vh;
+}
+.sticky-footer{
+    position: sticky;
+    top: 100%;
+}
+footer button{
+    background-color: rgb(227, 24, 24);
+    border: transparent;
+}
+footer span{
+    font-size: 1.5rem;
+    color: white;
+}
+footer button a{
+    color: black;
+}
+footer button a:hover{
+    color: white;
+}
