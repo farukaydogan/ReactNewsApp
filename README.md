@@ -1,7 +1,5 @@
-# Getting Started with Create React App
+# [LIVE REACT NEWS APP](https://final.farukaydogan.com)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-[LIVE](https://final.farukaydogan.com)
 ## Available Scripts
 
 In the project directory, you can run:
